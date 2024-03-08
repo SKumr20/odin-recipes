@@ -25,7 +25,7 @@ body {
     width: 200px;
     background-color: rgba(255, 255, 255, 0.447);
     border: 2.5px solid rgb(168, 167, 167);
-    border-style: dashed;
+    border-style:dotted;
     border-radius: 20px;
     margin: 250px auto 10px;
     padding: 40px;
